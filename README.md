@@ -1,8 +1,8 @@
 <html>
+  <head>
   <title>
     GRUPINHOS
   </title>
-  <head>
     <h1>
       batata frita
     </h1>
